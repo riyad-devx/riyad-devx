@@ -1,7 +1,7 @@
 <!-- ======================= BANNER ======================= -->
 
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Tamim Mia Riyad Banner">
+  <img src="./benar.jpg" width="100%" alt="Tamim Mia Riyad Banner">
 </p>
 
 <!-- ======================= INTRO ======================= -->
@@ -148,53 +148,6 @@
 
 ---
 
-<!-- ======================= GITHUB STATISTICS ======================= -->
-
-# 📊 GitHub Statistics
-
-## 🔥 GitHub Contributions
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=riyad-devx&theme=github-dark"
-    alt="GitHub Contribution Graph"
-  />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=riyad-devx&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
-
----
-
-## 💻 Top Languages
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyad-devx&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=riyad-devx&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
----
 
 <!-- ======================= PROFILE TROPHY ======================= -->
 
