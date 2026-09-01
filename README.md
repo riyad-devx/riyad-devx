@@ -1,7 +1,10 @@
+<!-- ======================= BANNER ======================= -->
 
 <p align="center">
   <img src="./banner.png" width="100%" alt="Tamim Mia Riyad Banner">
 </p>
+
+<!-- ======================= INTRO ======================= -->
 
 <h1 align="center">Hi 👋, I'm Tamim Mia Riyad</h1>
 
@@ -10,94 +13,208 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=riyad-devx&label=Profile%20Views&color=0e75b6&style=flat" alt="riyad-devx" />
+  <img
+    src="https://komarev.com/ghpvc/?username=riyad-devx&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="riyad-devx"
+  />
 </p>
 
 ---
 
+<!-- ======================= ABOUT ME ======================= -->
+
 ## 👨‍💻 About Me
 
-- 🌱 Currently learning **HTML, CSS, JavaScript & TypeScript**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript & TypeScript**
 - ⚛️ Exploring **React & Next.js**
 - 🐍 Learning **Python**
-- 🎨 Interested in **Responsive Web Design**
+- 🎨 Interested in **Figma, Photoshop & Illustrator**
+- 📱 Interested in **Responsive Web Design**
 - 🚀 My goal is to become a **Full Stack Developer**
-- 🇧🇩 Based in **Bangladesh**
+- 🇧🇩 From **Bangladesh**
 
 ---
 
+<!-- ======================= CONNECT ======================= -->
+
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/riyad-devx" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="45" />
+</a>
+
+<a href="https://twitter.com/@mdriayd40628119" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+    width="45"
+    height="45"
+  />
+</a>
+
+<a href="https://fb.com/mdriyad362" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+    width="45"
+    height="45"
+  />
+</a>
+
+<a href="https://instagram.com/md_riyad_369" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+    width="45"
+    height="45"
+  />
+</a>
+
+</p>
+
+📫 **Email:** `mdriyadmia01766@gmail.com`
+
+---
+
+<!-- ======================= TOOLS ======================= -->
+
 # 🛠️ Tools & Technologies
 
-## Languages
+## 💻 Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python" />
 </p>
 
-## CSS Framework
+---
+
+## 🎨 CSS Frameworks & Libraries
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tailwind" />
 </p>
 
-## JavaScript Frameworks & Libraries
+---
+
+## ⚛️ JavaScript Frameworks & Libraries
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs" />
 </p>
 
-## Git & Development Tools
+---
+
+## 🔧 Version Control
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
-## Deployment
+---
+
+## 💻 Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode" />
+</p>
+
+---
+
+## 🚀 Deployment Platform
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=githubpages" />
 </p>
 
-## Other Skills
-
-- 📱 Responsive Design
-
 ---
 
-# 📊 GitHub Statistics
+## 🎨 Design & Graphics
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riyad-devx&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-## Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyad-devx&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-## GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=riyad-devx&theme=tokyonight&hide_border=true" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
 </p>
 
 ---
 
-# 📫 Connect With Me
+## 📱 Web Development
 
 <p align="left">
 
-<a href="https://github.com/riyad-devx">
-  <img src="https://skillicons.dev/icons?i=github" width="45">
-</a>
+<img
+  src="https://img.shields.io/badge/Responsive%20Design-333333?style=for-the-badge"
+  alt="Responsive Design"
+/>
 
 </p>
 
 ---
 
+<!-- ======================= GITHUB STATISTICS ======================= -->
+
+# 📊 GitHub Statistics
+
+## 🔥 GitHub Contributions
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=riyad-devx&theme=github-dark"
+    alt="GitHub Contribution Graph"
+  />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=riyad-devx&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
+</p>
+
+---
+
+## 💻 Top Languages
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyad-devx&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=riyad-devx&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+<!-- ======================= PROFILE TROPHY ======================= -->
+
+## 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=riyad-devx&theme=tokyonight&no-frame=true&margin-w=10"
+    alt="GitHub Profile Trophy"
+  />
+</p>
+
+---
+
+<!-- ======================= FOOTER ======================= -->
+
 <h3 align="center">
-  ⭐ Thanks for visiting my profile ⭐
+  🚀 Keep Learning • Keep Building • Keep Growing
+</h3>
+
+<h3 align="center">
+  ⭐ Thanks for visiting my profile! ⭐
 </h3>
