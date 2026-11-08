@@ -113,7 +113,7 @@
 ## 🚀 Deployment Platform
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=githubpages" />
+  <img src="https://skillicons.dev/icons?i=vercel" width="45" alt="Vercel" />
 </p>
 
 ---
