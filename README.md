@@ -45,32 +45,23 @@
   <img src="https://skillicons.dev/icons?i=github" width="45" />
 </a>
 
+<a href="www.linkedin.com/in/md-riyad32" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+</a>
+
 <a href="https://twitter.com/@mdriayd40628119" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-    width="45"
-    height="45"
-  />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="45" height="45" />
 </a>
 
 <a href="https://fb.com/mdriyad362" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-    width="45"
-    height="45"
-  />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="45" height="45" />
 </a>
 
 <a href="https://instagram.com/md_riyad_369" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-    width="45"
-    height="45"
-  />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="45" height="45" />
 </a>
 
 </p>
-
 📫 **Email:** `mdriyadmia01766@gmail.com`
 
 ---
