@@ -62,7 +62,7 @@
 </a>
 
 </p>
-📫 **Email:** `mdriyadmia01766@gmail.com`
+📫 **Email:** mdriyadmia01766@gmail.com
 
 ---
 
